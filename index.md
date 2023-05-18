@@ -12,7 +12,11 @@
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+Great job adding a task list to the file ❤️
 
+You can now merge your pull request!
+
+⌨️ Activity: Merge your pull request
 ![whatevs](https://octodex.github.com/images/yaktocat.png)
 
 
